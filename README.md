@@ -1,2 +1,2 @@
 # AdAvenger
-HTML Spyware guys
+HTML Adware guys
